@@ -1,7 +1,5 @@
 <div align="center">  
   <h1> Olá! Seja bem-vindo :) </h1>
-
-  <br>
    
   <a href="https://www.linkedin.com/in/sabrina-hedler-28a7b72b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -10,6 +8,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
+<br>
  
 <p align="center">
   <img width="60%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinahedler&layout=compact&hide_border=true&title_color=0A4C6E&text_color=0A4C6E&bg_color=0d1117" />
